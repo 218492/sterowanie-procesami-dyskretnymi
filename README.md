@@ -4,7 +4,7 @@ Repozytorium do zajęć ze sterowania procesami dyskretnymi
 Pobieranie repozytorium:
 ------------------------
 
-Aby ściągnąć niniejsze repozytorium na swój komputer, można je pobrać tudzież sklonować.
+Aby ściągnąć niniejsze repozytorium na swój komputer, można je pobrać w formie paczki tudzież sklonować za pomocą polecenia `git`.
 
 Pobieranie:
 ```bash
