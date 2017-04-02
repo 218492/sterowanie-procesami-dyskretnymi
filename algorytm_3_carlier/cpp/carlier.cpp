@@ -49,7 +49,7 @@ std::tuple<int, int, int> block(std::vector<Job> permutation) // liczenie bloku 
   return std::make_tuple(a,b,c);
 }
 
-void carlier(std::vector<Job> jobs, int& ub) // carlier, przyjmuje wektor zadan oraz gorne oszacowanie (ub) ktore na koniec jest poszukiwanym cMax
+void carlier(std::vector<Job> jobs, int& ub) // Carlier, przyjmuje wektor zadan oraz gorne oszacowanie (ub) ktore na koniec jest poszukiwanym cMax
 {
   // ...
 
