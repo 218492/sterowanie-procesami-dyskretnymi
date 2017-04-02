@@ -4,7 +4,7 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
-for i in $(seq 1 8) ; do
+for i in $(seq 1 9) ; do
     input="schrage_${i}_in.txt"
     output="schrage_${i}_out.txt"
 
