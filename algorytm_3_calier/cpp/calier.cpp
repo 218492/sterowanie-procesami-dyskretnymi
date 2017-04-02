@@ -77,8 +77,11 @@ int main()
       input.push_back(j);
     }
 
+  // process
   int cMax = INT_MAX;
   calier(input, cMax);
+
+  // print result
   std::cout << cMax << std::endl;
 
   return 0;
