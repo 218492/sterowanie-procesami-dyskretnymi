@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <climits>
 
 struct Job
 {
@@ -15,7 +16,7 @@ int main()
   // read input
   int n;
   std::cin >> n;
-  while (n--)
+  for (int i = 0; i < n; i++)
     {
       Job j;
       std::cin >> j.p;
